@@ -1,0 +1,88 @@
+import os
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+
+class Config(object):
+    DEBUG = False
+    TESTING = False
+    CSRF_ENABLED = True
+    SECRET_KEY = 'asdsadj768DSHJAK7asdhjkasd7kl979797j9979422jh'
+
+    SQLALCHEMY_POOL_TIMEOUT = 120
+    SQLALCHEMY_COMMIT_ON_TEARDOWN = False
+    SQLALCHEMY_TRACK_MODIFICATIONS = True
+
+    ELASTICSEARCH_URI = 'http://localhost:9200/'
+    ELASTICSEARCH_INDEX = 'simpleflask_search'
+
+    REDIS_HOST = 'localhost'
+    REDIS_PORT = 6379
+
+    MAIL_SERVER = 'smtp.somehost.ru'
+    MAIL_PORT = 465
+    MAIL_USE_SSL = True
+    MAIL_USERNAME = 'user@somehost.ru'
+    MAIL_PASSWORD = 'password'
+    MAIL_DEFAULT_SENDER = ('Flask', 'user@somehost.ru')
+
+    STATIC_FOLDER = os.path.join(BASE_DIR, 'app', 'static')
+    UPLOAD_FOLDER = os.path.join(STATIC_FOLDER, 'uploads')
+    PROFILE_UPLOAD_FOLDER = os.path.join(STATIC_FOLDER, 'profile_uploads')
+    ALLOWED_PHOTO_EXTENSIONS = ('png', 'jpg', 'jpeg', 'gif')
+    ALLOWED_ATTACHMENT_EXTENSIONS = ('zip', 'rar', 'tgz', 'txt', 'pdf')
+    MAX_ATTACHMENT_SIZE = 5 * 1024 * 1024  # 5 MB
+    THUMBNAIL_SIZE = (160, 160)
+    PHOTO_SIZE = (1000, 700)
+    PHOTO_THUMBNAIL_PREFIX = 'thumb'
+    PHOTO_CROP_TYPE = 'middle'
+
+    GNUPG_KEYRING_FOLDER = os.path.join(BASE_DIR, 'keyring')
+    GNUPG_BINARY = 'gpg2'
+
+    EXCHANGE_RATE_EXPIRATION = 7200  # 2 hours
+
+    MIN_BALANCE = 1000 # 10 USD
+    WITHDRAWAL_THRESHOLD_BTC = 0.01  # 0.01 BTC minimal withdrawal
+    WITHDRAWAL_RANGE_WU = (10000, 100000)  # min. 100 USD, max 1000 USD
+
+    ORDER_FEE = 0.05  # 5 percents
+    WITHDRAWAL_FEE = 0.02  # 2 percents
+    WITHDRAWAL_FEE_WU = 0.05  # 5 percents
+    DEPOSIT_FEE = 0.05  # 5 percents
+    TRANSFER_FEE = 0.05  # 5 percents
+    DISPUTE_FEE = 0.1  # 10 percents
+
+    # All USD items are in USD cents
+    SELLER_FEE_USD = 0  # Set to 0 or None to disable one-time seller fee
+    PREMIUM_FEE_USD = 10000
+
+    STRIPE_SECRET_KEY = 'sk_test_xkWmbVUF3IMwSNuS8phZPp1A' # Put your keys here
+    STRIPE_PUBLISHABLE_KEY = 'pk_test_RHAYCwykFCcTPvfZHfY2kMbl'
+
+
+class ProductionConfig(Config):
+    SQLALCHEMY_DATABASE_URI =  'mysql://root:@localhost/simpleflask'
+    SERVER_NAME = 'selfmarket.net'
+    SESSION_COOKIE_SECURE = True
+    SESSION_COOKIE_DOMAIN = 'selfmarket.net'
+    DEBUG = False
+
+
+class StagingConfig(Config):
+    DEVELOPMENT = True
+    DEBUG = True
+
+
+class DevelopmentConfig(Config):
+    SQLALCHEMY_DATABASE_URI =  'mysql://root:@localhost/simpleflask'
+    SERVER_NAME = 'selfmarket.net'
+    DEVELOPMENT = True
+    DEBUG = True
+
+class TestingConfig(Config):
+    SQLALCHEMY_DATABASE_URI =  'mysql://root@localhost/simpleflask_testing'
+    ELASTICSEARCH_INDEX = 'simpleflask_search_testing'
+    SERVER_NAME = '139.162.158.229'
+    TESTING = True
+    SESSION_COOKIE_SECURE = True
+    SESSION_COOKIE_DOMAIN = '    SESSION_COOKIE_SECURE = True
+    SESSION_COOKIE_DOMAIN = 'selfmarket.net''

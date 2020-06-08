@@ -1,0 +1,25 @@
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+Host: https://jobdone.net
+User-agent: *
+
+# Disallowed pages
+Disallow: /api/*
+Disallow: /service/order/*
+Disallow: /account/*
+
+
+# Disallowed Terms
+Disallow: /*xxx
+Disallow: /*sex
+Disallow: /*gay
+Disallow: /*porn
+Disallow: /*nude
+Disallow: /*porno
+Disallow: /*sexy
+Disallow: /*erotic
+Disallow: /*pornography
+
+
+Sitemap: https://jobdone.net/sitemap.xml

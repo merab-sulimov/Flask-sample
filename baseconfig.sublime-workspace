@@ -1,0 +1,561 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"patch\tfunction"
+			],
+			[
+				"re",
+				"requests\tmodule"
+			],
+			[
+				"co",
+				"count\tfunction"
+			],
+			[
+				"au",
+				"authtoken"
+			],
+			[
+				"ser",
+				"serializer"
+			],
+			[
+				"seri",
+				"serializer"
+			],
+			[
+				"He",
+				"HelloSerializer"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"Se",
+				"Serializer"
+			],
+			[
+				"Hel",
+				"HelloApiView"
+			],
+			[
+				"app",
+				"application_id"
+			],
+			[
+				"t",
+				"template_name"
+			],
+			[
+				"coun",
+				"countryss"
+			],
+			[
+				"link",
+				"linksfile"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"ema",
+				"emailAddress"
+			],
+			[
+				"send",
+				"send_mail"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"ip_",
+				"ip_password"
+			],
+			[
+				"doma",
+				"domain_ip"
+			],
+			[
+				"dom",
+				"domains"
+			],
+			[
+				"get",
+				"get_domains"
+			],
+			[
+				"ss",
+				"ssh_cmd"
+			],
+			[
+				"ssh_",
+				"ssh_stop"
+			],
+			[
+				"che",
+				"check_port_open"
+			],
+			[
+				"por",
+				"port_number"
+			],
+			[
+				"ch",
+				"check_ssh"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"c",
+				"channel"
+			],
+			[
+				"se",
+				"server_ip"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"last",
+				"last_star_rating_id"
+			],
+			[
+				"user",
+				"username_id"
+			],
+			[
+				"sm",
+				"smtp_gmail"
+			],
+			[
+				"passd",
+				"passwordd"
+			],
+			[
+				"login",
+				"login_gmail"
+			],
+			[
+				"mx",
+				"mxRecord"
+			],
+			[
+				"th",
+				"threads"
+			],
+			[
+				"de",
+				"default_usernames"
+			],
+			[
+				"line",
+				"line_data"
+			],
+			[
+				"e",
+				"email_address"
+			],
+			[
+				"text",
+				"textvariable"
+			],
+			[
+				"da",
+				"date_licence_expiry"
+			],
+			[
+				"vo",
+				"vote"
+			],
+			[
+				"gpro",
+				"gproxy_port"
+			],
+			[
+				"gprox",
+				"gproxy_ip"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"gm",
+				"gmail_password"
+			],
+			[
+				"so",
+				"socksss"
+			],
+			[
+				"f",
+				"format"
+			],
+			[
+				"Ex",
+				"exceptions"
+			],
+			[
+				"pa",
+				"pattern3"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"pat",
+				"pattern2"
+			],
+			[
+				"lo",
+				"login_wp2"
+			],
+			[
+				"use",
+				"user_agent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+		"/Users/admin/Desktop/untitled.py",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/None",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/urls.py",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/admin.py",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/models.py",
+		"/Users/admin/github/djbase/djbase/djbase/djbase/settings.py",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/views.py",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/serializers.py",
+		"/Users/admin/github/djbase/djbase/djbase/profiles_api/permissions.py",
+		"/Users/admin/github/email_sender/serializers.py",
+		"/Users/admin/github/djbase/djbase/api/views.py",
+		"/Users/admin/github/djbase/djbase/api/urls.py",
+		"/Users/admin/github/djbase/djbase/license/models.py",
+		"/Users/admin/github/djbase/djbase/license/admin.py",
+		"/Users/admin/github/djbase/djbase/licence/models.py",
+		"/Users/admin/github/djbase/djbase/djbase/settings.py",
+		"/Users/admin/github/djbase/djbase/license/serializers.py",
+		"/Users/admin/github/djbase/djbase/license/apps.py",
+		"/Users/admin/github/djbase/djbase/licence/admin.py",
+		"/Users/admin/github/btc2sepa/exchange/admin.py",
+		"/Users/admin/github/btc2sepa/news/urls.py",
+		"/Users/admin/github/btc2sepa/news/models.py",
+		"/Users/admin/github/btc2sepa/news/views.py",
+		"/Users/admin/github/btc2sepa/news/templates/index.html",
+		"/Users/admin/github/btc2sepa/news/templates/view_news.html",
+		"/Users/admin/github/btc2sepa/exchange/models.py",
+		"/Users/admin/github/btc2sepa/btc2sepa/urls.py",
+		"/Users/admin/github/btc2sepa/btc2sepa/settings.py",
+		"/Users/admin/github/btc2sepa/news/admin.py",
+		"/Users/admin/github/btc2sepa/reviews/models.py",
+		"/Users/admin/github/btc2sepa/reviews/admin.py",
+		"/Users/admin/github/btc2sepa/exchange/management/commands/add_cryptocurrency.py",
+		"/Users/admin/github/btc2sepa/install.md",
+		"/Users/admin/github/btc2sepa/btc2sepa/views.py",
+		"/Users/admin/github/btc2sepa/exchange/templates/home.html",
+		"/Users/admin/github/btc2sepa/exchange/utils.py",
+		"/Users/admin/github/btc2sepa/exchange/views.py",
+		"/Users/admin/github/brain-wallet/eth_accounts.py",
+		"/Users/admin/github/krakiun_wallet/brainwallet.py",
+		"/Users/admin/github/pybrainwallet/brainwallet.py",
+		"/Users/admin/github/btc2sepa/templates/404.html",
+		"/Users/admin/github/btc2sepa/templates/500.html",
+		"/Users/admin/github/btc2sepa/db.sqlite3",
+		"/Users/admin/github/btc2sepa/exchange/management/commands/check_payments.py",
+		"/Users/admin/github/btc2sepa/exchange/management/commands/add_countrys.py",
+		"/Users/admin/Desktop/udemy/video_torents.txt",
+		"/Users/admin/Desktop/udemy/links.txt",
+		"/Users/admin/Desktop/udemy/torrents/FreeTutorials.us-go-programming-language.torrent",
+		"/Users/admin/Desktop/udemy/udemy.py",
+		"/Users/admin/Desktop/udemy.py",
+		"/Users/admin/github/email_sender/works/main_1.go",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/__init__.py",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/models.py",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/tasks.py",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/tests.py",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/urls.py",
+		"/Users/admin/github/appointment-reminders-django-master/reminders/views.py",
+		"/Users/admin/github/grepWEB/check.go",
+		"/Users/admin/github/grepWEB/main.go",
+		"/Users/admin/github/grepWEB/demo/GETitle.py",
+		"/Users/admin/Desktop/test_api.py",
+		"/Users/admin/Desktop/FAQ-Helpdesk/faq-app",
+		"/Users/admin/Desktop/icon.svg",
+		"/Users/admin/Desktop/fiverr_suggest.py",
+		"/Users/admin/Desktop/fiverr_suggest.txt",
+		"/Users/admin/Desktop/generate-addresses.py",
+		"/Users/admin/Desktop/categories.csv",
+		"/Users/admin/devel/vimeoparse/pula/lib/python3.6/site-packages/redis_cache/backends/base.py",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-fa220376ec7953b299efcee76888e3e209588f0b 3/main.go",
+		"/Users/admin/Google Drive/bitcoin to sepa/smtp credential",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-fa220376ec7953b299efcee76888e3e209588f0b 2/links_all.dat",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-fa220376ec7953b299efcee76888e3e209588f0b 2/links.dat",
+		"/Users/admin/Downloads/main.go",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-8de020fd61f48d3b9f8ee625f0f1832c99a1a803/links_all.dat",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-8de020fd61f48d3b9f8ee625f0f1832c99a1a803/main.go",
+		"/Users/admin/Downloads/51b7b93af559e245b1895b2ea1c9c7da-8de020fd61f48d3b9f8ee625f0f1832c99a1a803/links.dat",
+		"/Users/admin/Downloads/andersonangelina/app.go",
+		"/Users/admin/Downloads/andersonangelina/output.log",
+		"/Users/admin/Downloads/andersonangelina/README.md",
+		"/Users/admin/Desktop/EasySend.py",
+		"/Users/admin/Desktop/jobdone_password.py",
+		"/Users/admin/Desktop/go/test.go",
+		"/Users/admin/Desktop/jobdone_rsa.key",
+		"/Users/admin/.npm/_logs/2017-09-19T19_03_37_275Z-debug.log",
+		"/Users/admin/Desktop/forexfactory/forex_factory.py",
+		"/Users/admin/Desktop/SpiaBanche/sniff2.py",
+		"/Users/admin/Desktop/SpiaBanche/sniff.py",
+		"/Users/admin/Desktop/chmod_ftp.py",
+		"/Users/admin/Desktop/jobdone.net/gtm.py",
+		"/Users/admin/Desktop/teste/data2.py",
+		"/Users/admin/Desktop/jobdone_marketing/fiver_mass_send.py",
+		"/Users/admin/Desktop/pph/sitemap.live.peoplepublic.39.xml",
+		"/Users/admin/Desktop/setup-ipsec-vpn.sh",
+		"/Users/admin/Desktop/static/pph.py",
+		"/Users/admin/Google Drive/JOBDONE.NET/db_scrape/py/get_proxy.py",
+		"/Users/admin/Desktop/get_proxy.py",
+		"/Users/admin/Desktop/config.py",
+		"/Users/admin/Desktop/test",
+		"/Users/admin/Desktop/mole/mole.go",
+		"/Users/admin/Desktop/upwork.py",
+		"/Users/admin/Desktop/order.html",
+		"/Users/admin/Desktop/skills_upwork.txt",
+		"/Users/admin/Desktop/ssh_auto.py",
+		"/Users/admin/Desktop/tmp/proxy/gopf/settings.conf",
+		"/Users/admin/Desktop/tmpp/ct_1.py",
+		"/Users/admin/Desktop/plmm.py",
+		"/Users/admin/Desktop/check.py",
+		"/Users/admin/Downloads/facturi_2017-08-01_2017-08-11.xml",
+		"/Users/admin/Desktop/zalando1.txt",
+		"/Users/admin/Desktop/SpiaBanche/test_ssh.py",
+		"/Users/admin/Desktop/SpiaBanche/test_ssh2.py",
+		"/Users/admin/Desktop/intercept-traffic-android/readme.txt",
+		"/Users/admin/Desktop/plm.html",
+		"/Users/admin/Downloads/linux_setup/setup-ipsec-vpn.sh",
+		"/Users/admin/Desktop/http_server.sh",
+		"/Users/admin/Desktop/eValidator.py",
+		"/Users/admin/Desktop/mql5_api_query.txt",
+		"/Users/admin/Downloads/get_file.py",
+		"/Users/admin/Desktop/check_email.py",
+		"/Users/admin/Desktop/dasdasd",
+		"/Users/admin/Desktop/test.html",
+		"/Users/admin/Desktop/vote.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 323.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "baseconfig.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

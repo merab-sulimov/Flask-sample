@@ -1,0 +1,1 @@
+Assets are now build within frontend project. This requires nginx to be configured to serve these assets at /static/assets/ route.

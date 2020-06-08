@@ -1,0 +1,2 @@
+echo "Starting vagrant with port 5001 forwarded from host to guest..."
+vagrant up && vagrant ssh -- -R 5001:localhost:5001 -t "cd /vagrant ; bash --login"

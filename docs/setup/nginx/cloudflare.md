@@ -1,0 +1,3 @@
+Since cloudflare acts as a reverse proxy, we get their IPs instead of real remote IP addresses of clients. To fix that, we tweak nginx configuration with script available at `deploy/production/cloudflare-nginx-real-ip.sh`.
+
+This script is intented to run from cron once per day. To setup this, create a script in `/etc/cron.daily/` and create a link to `deploy/production/cloudflare-nginx-real-ip.sh`.
