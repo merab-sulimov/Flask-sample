@@ -31,7 +31,7 @@ raven==6.0.0
 requests==2.13.0
 twilio==6.4.2
 markdown==2.6.8
-bleach==2.0.0
+bleach==3.3.0
 pytz==2017.2
 rsa==3.4.2
 universal-analytics-python==0.2.4
