@@ -33,7 +33,7 @@ twilio==6.4.2
 markdown==2.6.8
 bleach==2.0.0
 pytz==2017.2
-rsa==3.4.2
+rsa==4.7
 universal-analytics-python==0.2.4
 peewee==2.10.2
 iso8601==0.1.12
