@@ -44,4 +44,4 @@ emails==0.5.15
 Flask-OAuth==0.12
 xhtml2pdf==0.2b1
 sqlalchemy_utils==0.32.21
-PyPDF2==1.26.0
+PyPDF2==1.27.5
